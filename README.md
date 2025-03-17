@@ -53,7 +53,6 @@ A comprehensive educational platform supporting 50,000+ users
   - Implemented secure API communication with local data encryption
   - Reduced load times by 25% through efficient state management
   - Achieved 4.5-star rating on app stores
-- **[View Project →](your-repo-link)**
 
 ### 🎓 AI-Powered E-Learning Platform
 Modular educational platform supporting 100,000+ concurrent users
@@ -62,7 +61,7 @@ Modular educational platform supporting 100,000+ concurrent users
   - AI-driven personalized learning paths
   - Offline-first architecture
   - Real-time language translation
-- **[View Project →](your-repo-link)**
+
 
 ### 🎥 Video Conferencing Plugin
 Cross-platform video conferencing solution supporting 1,000 concurrent users
@@ -71,7 +70,6 @@ Cross-platform video conferencing solution supporting 1,000 concurrent users
   - End-to-end encryption
   - 20% reduced latency
   - Customizable UI kit
-- **[View Project →](your-repo-link)**
 
 ## 📊 GitHub Stats
 
@@ -85,9 +83,7 @@ Cross-platform video conferencing solution supporting 1,000 concurrent users
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding MVVM in Flutter](your-blog-link)
-- [Implementing Clean Architecture in Android](your-blog-link)
-- [Advanced State Management with GetX](your-blog-link)
+- [Seamless Integration: Connecting Rasa NLU Chatbot with Flutter using WebSockets](https://medium.com/@sushant18072002/seamless-integration-connecting-rasa-nlu-chatbot-with-flutter-using-websockets-f7ca66623c0d)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect!
