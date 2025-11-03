@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Mobile Application Developer with 2+ years of experience in creating user-centric Android and cross-platform applications. Currently working at Manprax Software, New Delhi, where I've improved app performance by 25% and reduced crash rates by 40%. Passionate about creating efficient, scalable, and beautiful mobile applications.
+Mobile Application Developer with 3+ years of experience in creating user-centric Android and cross-platform applications. Currently working at Manprax Software, New Delhi, where I've improved app performance by 25% and reduced crash rates by 40%. Passionate about creating efficient, scalable, and beautiful mobile applications.
 
 - 🔭 Currently working on AI-powered E-Learning Platforms
 - 🌱 Learning Advanced Flutter Animations and ML Integration
