@@ -1,95 +1,69 @@
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sushant Kumar</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <h1>Hi, I'm Sushant Kumar</h1>
+  <h3>Building Scalable Mobile Experiences | 500k+ App Installs Delivered</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+Application+Developer;Flutter+%26+Android+Expert;Full+Stack+Developer;Always+learning+new+things&center=true&width=380&height=45">
-</p>
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Senior+Mobile+Engineer;Flutter+%26+Native+Android+Expert;Tech+Content+Creator+(5k%2B+Readers);DevOps+%26+CI%2FCD+Enthusiast" alt="Typing SVG" /></a>
+  </p>
 
-<p align="center">
-  <a href="mailto:sushant18072002@gmail.com"><img src="https://img.shields.io/badge/Email-sushant18072002%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/sushant-kumar-147ba7190"><img src="https://img.shields.io/badge/LinkedIn-Sushant_Kumar-blue?style=flat-square&logo=linkedin"></a>
-  <img src="https://komarev.com/ghpvc/?username=sushant18072002&color=blue&style=flat-square">
-</p>
+  <p>
+    <a href="mailto:sushant18072002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/sushant-kumar-147ba7190"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://medium.com/@sushant18072002"><img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  </p>
+</div>
+
+<br />
 
 ## 👨‍💻 About Me
 
-Mobile Application Developer with 3+ years of experience in creating user-centric Android and cross-platform applications. Currently working at Manprax Software, New Delhi, where I've improved app performance by 25% and reduced crash rates by 40%. Passionate about creating efficient, scalable, and beautiful mobile applications.
+I am a **Mobile Application Developer** with **4 years of experience** bridging the gap between complex backend logic and buttery-smooth mobile UIs. Currently optimizing architecture at **Manprax Software**, where I focus on performance profiling and reducing crash rates.
 
-- 🔭 Currently working on AI-powered E-Learning Platforms
-- 🌱 Learning Advanced Flutter Animations and ML Integration
-- 👯 Looking to collaborate on Flutter and Android Open Source Projects
-- 💬 Ask me about Mobile Development, Flutter, Kotlin, or Java
-- ⚡ Fun fact: I write technical blogs reaching 5,000+ monthly readers!
+* 🔭 **Working on:** AI-powered E-Learning Platforms & Real-time communication tools.
+* 🌱 **Learning:** Advanced Micro-interactions, ML Kit, and **DevOps for Mobile** (CI/CD pipelines).
+* 📢 **Community:** I write technical deep-dives reaching **5,000+ monthly readers**.
+* ⚡ **Superpower:** Turning legacy codebases into modern, clean architecture.
 
-## 🛠️ Tech Stack
+---
 
-### Languages & Frameworks:
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🛠️ The Arsenal
 
-### Architecture & State Management:
-- MVVM
-- Clean Architecture
-- Repository Pattern
-- Kotlin Coroutines
-- Provider
-- BLoC
-- GetX
+| **Core Mobile** | **Architecture & State** | **Backend & Tools** |
+|:---:|:---:|:---:|
+| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) <br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | Clean Arch • MVVM • BLoC <br> Provider • GetX • Coroutines | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 
-### Tools & Technologies:
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+---
 
-## 🚀 Featured Projects
+## 🚀 Featured Deployments
 
-### 📱 Educational Course Application
-A comprehensive educational platform supporting 50,000+ users
-- **Tech Stack**: Flutter, Dart, Socket, REST APIs, SQLite
-- **Key Achievements**:
-  - Implemented secure API communication with local data encryption
-  - Reduced load times by 25% through efficient state management
-  - Achieved 4.5-star rating on app stores
+| Project | Tech Stack | Impact & Metrics |
+|:---|:---|:---|
+| **🎓 Educational Course App**<br>_(50,000+ Active Users)_ | `Flutter` `REST APIs` `SQLite` `Socket.io` | • **4.5★ Rating** maintained across stores.<br>• Reduced load times by **25%** via caching strategies.<br>• Implemented offline-first secure data encryption. |
+| **🤖 AI E-Learning Platform**<br>_(100k+ Concurrent Users)_ | `Android Native` `Kotlin` `Jetpack Compose` | • Engineered **AI-driven learning paths**.<br>• Built a highly modular, offline-first architecture.<br>• Integrated real-time language translation. |
+| **🎥 Video Conferencing Kit**<br>_(Plugin / SDK)_ | `Flutter` `Zoom SDK` `WebRTC` | • Reduced video latency by **20%**.<br>• Supports **1,000 concurrent users**.<br>• Built a reusable UI Kit for rapid integration. |
 
-### 🎓 AI-Powered E-Learning Platform
-Modular educational platform supporting 100,000+ concurrent users
-- **Tech Stack**: Android, Kotlin, Jetpack Compose
-- **Key Features**:
-  - AI-driven personalized learning paths
-  - Offline-first architecture
-  - Real-time language translation
+---
 
+## 📈 GitHub Activity
 
-### 🎥 Video Conferencing Plugin
-Cross-platform video conferencing solution supporting 1,000 concurrent users
-- **Tech Stack**: Flutter, Dart, Zoom SDK, Firebase
-- **Highlights**:
-  - End-to-end encryption
-  - 20% reduced latency
-  - Customizable UI kit
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushant18072002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushant18072002&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Streak" height="150" />
+</div>
 
-## 📊 GitHub Stats
+<br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushant18072002&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## ✍️ Latest Insights
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushant18072002&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
 - [Seamless Integration: Connecting Rasa NLU Chatbot with Flutter using WebSockets](https://medium.com/@sushant18072002/seamless-integration-connecting-rasa-nlu-chatbot-with-flutter-using-websockets-f7ca66623c0d)
-<!-- BLOG-POST-LIST:END -->
+➡️ [Read more on my Medium](https://medium.com/@sushant18072002)
 
-## 🤝 Let's Connect!
+---
 
-I'm always interested in connecting with fellow developers and discussing mobile development, technology, and innovation. Feel free to reach out!
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sushant-kumar-147ba7190)
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/sushant18072002)
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:sushant18072002@gmail.com)
+<div align="center">
+  <h3>Let's build something scalable together.</h3>
+  <a href="mailto:sushant18072002@gmail.com">
+    <img src="https://img.shields.io/badge/Send_me_a_proposal-sushant18072002%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
