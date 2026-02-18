@@ -48,8 +48,9 @@ I am a **Mobile Application Developer** with **4 years of experience** bridging 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushant18072002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushant18072002&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sushant18072002&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushant18072002&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </div>
 
 <br />
